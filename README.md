@@ -1,2 +1,2 @@
 # Visualizations
-![alt text](Visualizations/bayes_50_weeks.gif)
+![alt text](https://gitbub.com/jzking/visualizations/bayes_50_weeks.gif)
