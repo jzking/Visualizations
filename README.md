@@ -1,9 +1,4 @@
 # Visualizations
 
 
-![alt text](https://github.com/jzking/Visualizations/blob/master/ds_graph2.pdf)
-
-https://plot.ly/~jzking/45/
-
-
-![alt text](https://github.com/jzking/Visualizations/blob/master/bayes_50_weeks.gif?raw=true)
+These are a set of visualizations that I've used in the last few years to convey concepts and ideas in a way that speaks louder than words.
