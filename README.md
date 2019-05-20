@@ -1,5 +1,6 @@
 # Visualizations
 
+https://github.com/jzking/Visualizations/blob/master/ds_graph2.pdf
 
 https://plot.ly/~jzking/45/
 
